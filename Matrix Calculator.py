@@ -1,4 +1,4 @@
-                                          #CALCULATOR    
+                                          #MATRIX CALCULATOR
 import numpy
 # x = input("enter the array")
 # arr1 = numpy.array([])                              
